@@ -1,2 +1,2 @@
 # Test
-This is a Coursera test repository
+This is a test 
